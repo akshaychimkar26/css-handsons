@@ -1,0 +1,26 @@
+h2{
+    color:red;
+}
+h3{
+    color:red;
+}
+.ol{
+    text-decoration:line-through;
+}
+.ol1{
+    background-color:yellow;
+}
+.ul{
+    background-color:yellow;
+    word-spacing:5px;
+}
+.link{
+    color:red;
+    background-color:yellow;
+}
+a{
+    text-decoration:none;
+}
+.ulmain{
+    word-spacing:20px;
+}
